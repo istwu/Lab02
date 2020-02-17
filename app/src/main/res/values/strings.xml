@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lab02 copy 2</string>
+    <string-array name="array">
+        <item>hey</item>
+        <item>hi</item>
+        <item>hello</item>
+    </string-array>
+</resources>
